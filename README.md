@@ -31,8 +31,8 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/whatsapp-chat-analyzer.git
-    cd whatsapp-chat-analyzer
+    git clone https://github.com/machinelearningprodigy/WhastApp-Chat-Analyzer
+    cd WhastApp-Chat-Analyzer
     ```
 
 2. **Install the required packages:**
